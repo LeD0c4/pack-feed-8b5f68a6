@@ -16,9 +16,11 @@ Dans Ops, carte « Pack de mods » : « Construire le pack X.Y » (compilation s
 Tous les autres mods (Create, JEI, TerraBlender…), tels qu'ils sont dans le profil Modrinth
 « Server » du PC d'administration. Ce n'est pas une release : le panel ne surveille que les releases.
 
-Le fichier ne contient que des liens `cdn.modrinth.com`, les empreintes SHA-1 / SHA-512, la version et
-le côté de chaque mod (client, serveur) : aucun fichier n'est redistribué. Les rares mods absents de
-Modrinth sont listés sans lien et envoyés aux serveurs depuis le PC d'administration.
+Pour chaque mod : son lien de téléchargement, ses empreintes SHA-1 / SHA-512, sa version et son côté
+(client, serveur). Les mods présents sur Modrinth pointent vers `cdn.modrinth.com`. Les mods absents
+de Modrinth (CurseForge…) sont des fichiers de la release `mods-tiers` de ce dépôt : une pré-release,
+jamais « la dernière », que le panel et Ops ne confondent pas avec un pack Selvania. Ce dépôt est
+public : ces fichiers sont téléchargeables par tous.
 
 Dans Ops, section « Mods tiers » : « Comparer au pack publié », « Publier le pack de mods tiers »,
 puis « Préparer le déploiement » pour les serveurs.
