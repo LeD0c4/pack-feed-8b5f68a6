@@ -1,7 +1,7 @@
 {
   "format": "selvania-mods-tiers",
   "version": 1,
-  "publishedAt": "2026-10-03T08:16:34.644Z",
+  "publishedAt": "2026-10-03T08:34:13.317Z",
   "profile": "Server",
   "minecraft": "1.21.1",
   "mods": [
@@ -157,7 +157,7 @@
       "sha1": "0ab4e0342b9f1e595d9a891f84747e4e5389c552",
       "sha512": "b31e68b526b30b1a5b58cbc624b4d586937e6ca5d4eff83cec4e48017a5b24171716c0ef146be329d5f1add738352c5ac794fb2245a9e3bf4b58326f71a0e381",
       "size": 468147,
-      "url": null,
+      "url": "https://github.com/LeD0c4/pack-feed-8b5f68a6/releases/download/mods-tiers/blockui-1.0.211-1.21.1-snapshot.jar",
       "client": "optional",
       "server": "optional"
     },
@@ -300,7 +300,7 @@
       "sha1": "e977d86eec39d49295df4e2c4265d6710ae065e8",
       "sha512": "1e5037fc7aa998d372ee22868f422e78f375a199307114493bc0a3cbd198e3c171c3d086f4f4bd063763cb35304f72f0d72867f2cd28ec83e8e27b55c8dea203",
       "size": 428793,
-      "url": null,
+      "url": "https://github.com/LeD0c4/pack-feed-8b5f68a6/releases/download/mods-tiers/configured-neoforge-1.21.1-2.6.3.jar",
       "client": "optional",
       "server": "optional"
     },
@@ -638,7 +638,7 @@
       "sha1": "e9564ce1269840b4e70791b79c83716a972618df",
       "sha512": "7c6ebdd08ca95e445724f1b87f00d18b9f6a72166696d02f0af2d4f97326fe95096ff0d62effbf1f99076fb10f6f92be86c792005b984433f8e66099f8b5a878",
       "size": 1151596,
-      "url": null,
+      "url": "https://github.com/LeD0c4/pack-feed-8b5f68a6/releases/download/mods-tiers/domum-ornamentum-1.0.234-snapshot-main.jar",
       "client": "optional",
       "server": "optional"
     },
@@ -1275,7 +1275,7 @@
       "sha1": "244f521ec1cb455654f9fb0084de9d4cf4f52b2b",
       "sha512": "275dfbc5895e8be2a0f3279d8cb11b2c13bd8b52ecdc6089849cca79c502a4fd6afcc0a2e46cd08a2602bd90891840f725e0da468f5976b128506fd8674c3f6b",
       "size": 77945301,
-      "url": null,
+      "url": "https://github.com/LeD0c4/pack-feed-8b5f68a6/releases/download/mods-tiers/minecolonies-1.1.1368-1.21.1-snapshot.jar",
       "client": "optional",
       "server": "optional"
     },
@@ -1366,7 +1366,7 @@
       "sha1": "2b63be739da24247328e4052ec91c928230d0390",
       "sha512": "60007e72516857228c45cbfee14ec18c9c4e89b626ecdd659fff3a146d5dc527d52563645e3348b79820f7eeb0b6d3aeab4394e7b6d6a065666ed04333c05a48",
       "size": 34139,
-      "url": null,
+      "url": "https://github.com/LeD0c4/pack-feed-8b5f68a6/releases/download/mods-tiers/multipiston-1.2.58-1.21.1.jar",
       "client": "optional",
       "server": "optional"
     },
@@ -1561,7 +1561,7 @@
       "sha1": "42ec80306cdb989a02156a8fcbc59cefc8a2c6d5",
       "sha512": "b0a2b0762eb5febc267aef731c8e74f9b881d9ee19305f73c58d74d9b8df3d810506958b28496f5764dcce98c7a082315d678e1b4ac7f46f55418badb220898e",
       "size": 1861522,
-      "url": null,
+      "url": "https://github.com/LeD0c4/pack-feed-8b5f68a6/releases/download/mods-tiers/smallcolonies_1.21.1_v1.8.jar",
       "client": "optional",
       "server": "optional"
     },
@@ -1639,7 +1639,7 @@
       "sha1": "96f0c0d236ac3bfb361cbb05d0b0c140fb77d3d5",
       "sha512": "29c5886b0af6c4c07e866bd6d7e3c7d53271f0e1171a1efdac67fb02bab200ec3cda0b13681153926619c76190a53568d17eab1a31430c7465abc7943817ec3b",
       "size": 1063857,
-      "url": null,
+      "url": "https://github.com/LeD0c4/pack-feed-8b5f68a6/releases/download/mods-tiers/structurize-1.0.832-1.21.1-snapshot.jar",
       "client": "optional",
       "server": "optional"
     },
